@@ -1,0 +1,5 @@
+{
+  "name": "SPMB - Sistem Penerimaan Murid Baru",
+  "description": "A comprehensive student admission system featuring multi-step registration forms, automated document management, and a secure admin dashboard.",
+  "requestFramePermissions": []
+}
