@@ -1,4 +1,4 @@
-function myFunction() {
+
 /**
  * BACKEND GOOGLE APPS SCRIPT (SPMB INTEGRATION)
  * Masukkan kode ini di Extensions > Apps Script pada Google Spreadsheet Anda.
